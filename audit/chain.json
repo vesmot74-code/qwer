@@ -1,4 +1,5 @@
 {
+  "schema_version": 1,
   "blocks": [
     {
       "index": 0,
@@ -20,6 +21,13 @@
       "hash": "3d3682ecdcb423b331dc36c2b629bacd36743dcf24a79cad6c45aa5e2c293740",
       "commit_id": "a3a05e165ac8f276468456ed4b8123f6fd0b5e82",
       "timestamp": 1782333391
+    },
+    {
+      "index": 3,
+      "prev_hash": "3d3682ecdcb423b331dc36c2b629bacd36743dcf24a79cad6c45aa5e2c293740",
+      "hash": "a3ebbea29a5ec96617d3f8d85b9271793291b71b349daa8e8db48f8fb6f4dad3",
+      "commit_id": "e8e54253330f260dfc6aad6df193462a20d0bb42",
+      "timestamp": 1782370898
     }
   ]
 }
